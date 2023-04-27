@@ -63,7 +63,7 @@
   <property name="jsp.revision"            value="-SNAPSHOT" />
   <property name="el.spec.version"         value="6.0" />
   <property name="el.revision"             value="-SNAPSHOT" />
-  <property name="websocket.spec.version"  value="2.1" />
+  <property name="websocket.spec.version"  value="2.2" />
   <property name="websocket.revision"      value="" />
   <property name="jaspic.spec.version"     value="3.0" />
   <property name="jaspic.revision"         value="" />
