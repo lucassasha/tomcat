@@ -31,7 +31,7 @@
     <version>0.1-SNAPSHOT</version>
 
     <properties>
-        <tomcat.version>11.0.0-M1-SNAPSHOT</tomcat.version>
+        <tomcat.version>11.0.0</tomcat.version>
     </properties>
 
     <scm>
